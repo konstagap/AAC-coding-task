@@ -12,7 +12,7 @@ To set this project up and running you can do next:
 ### Prerequisites
 
 Application is build with vanilla javasCript, CSS and HTML.
-Project comes with `package.json` file which has all the dependencies listed, after runnin `npm install` you do not have to install anything seperatly to make app running. 
+Project comes with `package.json` file which has all the dependencies listed in it, after runnin `npm install` you do not have to install anything seperatly to make app running. 
 __However__, application uses Express.js server, to install Express individualy you can run 
 
 ```
