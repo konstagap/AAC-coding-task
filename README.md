@@ -4,7 +4,7 @@ This is a great app to find a random user based on gender.
 
 ## About
 
-This is app has a Node server running with Express.js. It serves an HTML page where you can find two buttons, click on the button will send an Http request to [Random User API](https://randomuser.me/) which is going to respond with JSON file that includes random user data. After receiving data, our application is going to generate 9 user cards and render them on screen. The project is built with vanilla JavaScript, HTML, CSS.
+This is app has a Node server running with Express.js. It serves an HTML page where you can find two buttons, click on the button will send an Http request to [Random User API](https://randomuser.me/) which is going to respond with JSON file that includes random users data. After receiving data, our application is going to generate 9 user cards and render them on screen. The project is built with vanilla JavaScript, HTML, CSS.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ You can learn more about [Express here.](https://expressjs.com/)
 
 ## Authors
 
-- **Kostas Agapov** - _Initial work_ - [Kostas](https://github.com/konstagap)
+- **Kostas Agapov** - 🏋️ - [Kostas](https://github.com/konstagap)
 
 ## License
 
