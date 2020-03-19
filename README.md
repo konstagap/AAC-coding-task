@@ -1,14 +1,13 @@
 # American Addiction Centers coding task
 
 This is a great app to find a random user based on gender.
+<p align="center">
+  <img src="https://github.com/konstagap/AAC-coding-task/blob/master/acc.jpg?raw=true">
+</p>
 
 ## About
 
 This is app has a Node server running with Express.js. It serves an HTML page where you can find two buttons, click on the button will send an Http request to [Random User API](https://randomuser.me/) which is going to respond with JSON file that includes random users data. After receiving data, our application is going to generate 9 user cards and render them on screen. The project is built with vanilla JavaScript, HTML, CSS.
-
-<p align="center">
-  <img src="https://github.com/konstagap/AAC-coding-task/blob/master/acc.jpg?raw=true">
-</p>
 
 ## Getting Started
 
