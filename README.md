@@ -10,7 +10,7 @@ To set this project up and running you can do next:
 * After dependencies been installed, run `npm start`, this will start the server in development mode serving app on http://localhost:3000/ .
 ### Prerequisites
 
-Application is built with vanilla javasCript, CSS and HTML. The project comes with `package.json` file which has all the dependencies listed in it, after running `npm install` you do not have to install anything separately to make the app running.  __However__,  application is using Express.js server, to install Express individually you can run 
+Application is built with vanilla JavaScript, CSS and HTML. The project comes with `package.json` file which has all the dependencies listed in it, after running `npm install` you do not have to install anything separately to make the app running.  __However__,  application is using Express.js server, to install Express individually you can run 
 
 ```
 npm install express
