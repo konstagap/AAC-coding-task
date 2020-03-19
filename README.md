@@ -6,8 +6,8 @@ This is a great app to find a random user based on gender.
 
 To set this project up and running you can do next:
 * Clone or download this project folder to your local machine (click green button under contributors)
-* Install dependencies, be running `<code>npm install</code>` in your terminal comand line, make sure you are in the same folder with project.
-* After dependecies been installed, run `<code>npm start</code>`, this will start the server in development mode serving app on http://localhost:3000/ .
+* Install dependencies, be running `npm install` in your terminal comand line, make sure you are in the same folder with project.
+* After dependecies been installed, run `npm start`, this will start the server in development mode serving app on http://localhost:3000/ .
 
 ### Prerequisites
 
