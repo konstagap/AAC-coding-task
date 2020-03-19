@@ -1,4 +1,4 @@
-# American Addiction Center coding task
+# American Addiction Centers coding task
 
 This is a great app to find a random user based on gender.
 
